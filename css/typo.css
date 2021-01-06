@@ -1,0 +1,181 @@
+/*------------------------------------------------------------------------
+* Copyright (c) 2008-2012 ZooTemplate. All Rights Reserved.
+* @license - Copyrighted Commercial Software
+* Author: ZooTemplate
+* Websites:  http://www.zootemplate.com
+-------------------------------------------------------------------------*/
+#typhography{ color:#2f2f2f; }
+#typhography p{ margin: 1em 0;}
+#typhography h1 {font-size: 260%; margin:0 0 20px 0; line-height:100%; }
+#typhography h2 {font-size: 220%; margin:0 0 20px 0; line-height:100%; }
+#typhography h3 {font-size: 180%; margin:0 0 20px 0; line-height:100%; }
+#typhography h4 {font-size: 140%; margin:0 0 20px 0; line-height:100%; }
+#typhography .clearfix{ clear: both;}
+#typhography .zt-typo-title{ font-size:200%; margin:0;}
+#typhography .zt-typo-des{ width:100%; padding:0; margin:0;}
+#typhography .zt-typo-boxes{ border-bottom:1px solid #e2e3e5; margin: 0; padding:20px 0; width: 100%; }
+#typhography .zt-typo-boxes2{  margin: 0; padding:20px 0; width: 100%; }
+#typhography .zt-typo-boxes-inside{ padding: 0 10px; }
+#typhography .heading-styles { font-size:200%; }
+#typhography .zt-typo-row{ width: 100%; float:left; margin: 10px 0; color:#3d3d3d; }
+#typhography .zt-typo-col  { width: 50%; float:left; }
+#typhography .zt-typo-col1 .zt-typo-inside  { padding: 0 20px 0 0; }
+#typhography .zt-typo-col2 .zt-typo-inside  { padding: 0 0 0 20px; }
+
+/*begin pre code*/
+#typhography pre, .code { color:#232323; font-size: 100%; font-size-adjust:none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: 20px; margin:0; padding: 10px; background: #e2e3e5; border-left: 6px solid #adadad; border-top: 1px solid #adadad; border-bottom: 1px solid #adadad; border-right: 1px solid #adadad; }
+#typhography pre.orange{ background: #faf4ed; border-left: 6px solid #eedcc7; border-top: 1px solid #eedcc7; border-bottom: 1px solid #eedcc7; border-right: 1px solid #eedcc7; }
+#typhography pre.blue{ background: #f2f5fd; border-left: 6px solid #bbd4eb; border-top: 1px solid #bbd4eb; border-bottom: 1px solid #bbd4eb; border-right: 1px solid #bbd4eb; }
+/*end pre code*/
+
+
+/***Highlight***/
+#typhography .t-highlight { margin:3px 0; width:100%; }
+#typhography .highlight { padding: 2px 5px; color: #2f2f2f; background: #e5e5e5; }
+#typhography .highlight1 { padding: 2px 5px; color: #ffffff; background: #0066ff; }
+#typhography .highlight2 { padding: 2px 5px; color: #ffffff; background: #ff0000; }
+#typhography .highlight3 { padding: 2px 5px; color: #2f2f2f; background: #ffe400; }
+#typhography .code-hightlight { color: #a1a1a1; margin:10px  0 0 0; }
+/***End Highlight***/
+
+/*begin icon set*/
+#typhography .zt-typo-icon-row{ margin: 10px 0; width: 100%; }
+#typhography .zt-typo-set{ width: 33%; float:left; }
+#typhography .zt-typo-set .zt-typo-set-inside{ padding: 0 10px; }
+#typhography .icon-set { 	padding: 0 0 0 40px; float:left;  }
+#typhography .t-set{ width: 100%; float:left; }
+#typhography .t-setcode{ color:#a9a9a9; width: 100%; float:left; }
+#typhography .icon1 { background: url('../images/typo/icon1.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon2 { background: url('../images/typo/icon2.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon3 { background: url('../images/typo/icon3.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon4 { background: url('../images/typo/icon4.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon5 { background: url('../images/typo/icon5.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon6 { background: url('../images/typo/icon6.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon7 { background: url('../images/typo/icon7.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon8 { background: url('../images/typo/icon8.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon9 { background: url('../images/typo/icon9.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon10 { background: url('../images/typo/icon10.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon11 { background: url('../images/typo/icon11.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon12 { background: url('../images/typo/icon12.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon13 { background: url('../images/typo/icon13.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon14 { background: url('../images/typo/icon14.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon15 { background: url('../images/typo/icon15.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon16 { background: url('../images/typo/icon16.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon17 { background: url('../images/typo/icon17.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon18 { background: url('../images/typo/icon18.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon19 { background: url('../images/typo/icon19.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon20 { background: url('../images/typo/icon20.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon21 { background: url('../images/typo/icon21.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon22 { background: url('../images/typo/icon22.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon23 { background: url('../images/typo/icon23.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon24 { background: url('../images/typo/icon24.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon25 { background: url('../images/typo/icon25.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon26 { background: url('../images/typo/icon26.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon27 { background: url('../images/typo/icon27.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon28 { background: url('../images/typo/icon28.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon29 { background: url('../images/typo/icon29.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+#typhography .icon30 { background: url('../images/typo/icon30.png') no-repeat left 2px; display: block;  height: auto;  line-height: 21px;  vertical-align: middle;  width: auto;}
+
+/*end icon set*/
+
+/*begin unordered list*/
+#typhography .unordered{ width: 25%; float:left;  }
+#typhography .unordered-inside{ padding:0 10px; }
+#typhography .unordered li{ padding:0 0 0 30px; height: 20px; line-height: 20px; margin:5px 0;}
+#typhography .unordered .list1 li.bullet1{ background: url('../images/typo/arrow1.png') no-repeat left 0; }
+#typhography .unordered .list1 li.bullet2{ background: url('../images/typo/arrow1.png') no-repeat left -27px; }
+#typhography .unordered .list1 li.bullet3{ background: url('../images/typo/arrow1.png') no-repeat left -54px; }
+
+#typhography .unordered .list2 li.bullet1{ background: url('../images/typo/arrow2.png') no-repeat left 4px; }
+#typhography .unordered .list2 li.bullet2{ background: url('../images/typo/arrow2.png') no-repeat left -23px; }
+#typhography .unordered .list2 li.bullet3{ background: url('../images/typo/arrow2.png') no-repeat left -50px; }
+
+#typhography .unordered .list3 li.bullet1{ background: url('../images/typo/arrow3.png') no-repeat left 4px; }
+#typhography .unordered .list3 li.bullet2{ background: url('../images/typo/arrow3.png') no-repeat left -23px; }
+#typhography .unordered .list3 li.bullet3{ background: url('../images/typo/arrow3.png') no-repeat left -50px; }
+
+#typhography .unordered .list4 li.bullet1{ background: url('../images/typo/arrow4.png') no-repeat left 5px; }
+#typhography .unordered .list4 li.bullet2{ background: url('../images/typo/arrow4.png') no-repeat left -22px; }
+#typhography .unordered .list4 li.bullet3{ background: url('../images/typo/arrow4.png') no-repeat left -49px; }
+
+/*warning*/
+#typhography .zt-box-info { text-shadow:1px 1px 1px #ffffff; padding: 15px 15px 15px 50px; border-top: solid 1px #d3eaf1; 	border-bottom: solid 1px #d3eaf1; background: #ebf7fb url(../images/typo/box-info.png) no-repeat 10px 10px; }
+#typhography .zt-box-warning { text-shadow:1px 1px 1px #ffffff; padding: 15px 15px 15px 50px; border-top: solid 1px #f5c8c1; border-bottom: solid 1px #f5c8c1; background: #fbedeb url(../images/typo/box-warning.png) no-repeat 10px 10px; }
+#typhography .zt-box-stickynote { text-shadow:1px 1px 1px #ffffff; padding: 15px 15px 15px 50px; border-top: solid 1px #f1d99a; border-bottom: solid 1px #f1d99a; 	background: #fbf8eb url(../images/typo/box-stickynote.png) no-repeat 10px 10px; }
+#typhography .zt-box-upload { text-shadow:1px 1px 1px #ffffff; padding: 15px 15px 15px 50px; border-top: solid 1px #c2e2a8; border-bottom: solid 1px #c2e2a8; background: #eefbeb url(../images/typo/box-upload.png) no-repeat 10px 10px; }
+#typhography .zt-box-download { text-shadow:1px 1px 1px #ffffff; padding: 15px 15px 15px 50px;border-top: solid 1px #ace9ed;border-bottom: solid 1px #ace9ed;background: #ebfafb url(../images/typo/box-download.png) no-repeat 10px 10px; }
+
+/*right to left style*/
+.rtl .zt-typo-row{ float:right;}
+.rtl .zt-typo-col  { float:right; }
+.rtl .zt-typo-col1 .zt-typo-inside  { padding: 0 0 0 20px; }
+.rtl .zt-typo-col2 .zt-typo-inside  { padding: 0 20px 0 0; }
+
+/*begin pre code*/
+.rtl pre, .rtl .code { border-left: 1px solid #adadad; border-top: 1px solid #adadad; border-bottom: 1px solid #adadad; border-right: 6px solid #adadad; } 
+.rtl pre.orange{ border-left: 1px solid #eedcc7; border-top: 1px solid #eedcc7; border-bottom: 1px solid #eedcc7; border-right: 6px solid #eedcc7; }
+.rtl pre.blue{ border-left: 1px solid #bbd4eb; border-top: 1px solid #bbd4eb; border-bottom: 1px solid #bbd4eb; border-right: 6px solid #bbd4eb; }
+/*end pre code*/
+
+/*begin icon set*/
+.rtl .zt-typo-set{ float:right; }
+.rtl .icon-set { 	padding: 0 40px 0 0; float:right;  }
+.rtl .t-set{ float:right; }
+.rtl .t-setcode{ float:right; }
+.rtl .icon1 { background: url('../images/typo/icon1.png') no-repeat right 2px;}
+.rtl .icon2 { background: url('../images/typo/icon2.png') no-repeat right 2px;}
+.rtl .icon3 { background: url('../images/typo/icon3.png') no-repeat right 2px;}
+.rtl .icon4 { background: url('../images/typo/icon4.png') no-repeat right 2px;}
+.rtl .icon5 { background: url('../images/typo/icon5.png') no-repeat right 2px;}
+.rtl .icon6 { background: url('../images/typo/icon6.png') no-repeat right 2px;}
+.rtl .icon7 { background: url('../images/typo/icon7.png') no-repeat right 2px;}
+.rtl .icon8 { background: url('../images/typo/icon8.png') no-repeat right 2px;}
+.rtl .icon9 { background: url('../images/typo/icon9.png') no-repeat right 2px;}
+.rtl .icon10 { background: url('../images/typo/icon10.png') no-repeat right 2px;}
+.rtl .icon11 { background: url('../images/typo/icon11.png') no-repeat right 2px;}
+.rtl .icon12 { background: url('../images/typo/icon12.png') no-repeat right 2px;}
+.rtl .icon13 { background: url('../images/typo/icon13.png') no-repeat right 2px;}
+.rtl .icon14 { background: url('../images/typo/icon14.png') no-repeat right 2px;}
+.rtl .icon15 { background: url('../images/typo/icon15.png') no-repeat right 2px;}
+.rtl .icon16 { background: url('../images/typo/icon16.png') no-repeat right 2px;}
+.rtl .icon17 { background: url('../images/typo/icon17.png') no-repeat right 2px;}
+.rtl .icon18 { background: url('../images/typo/icon18.png') no-repeat right 2px;}
+.rtl .icon19 { background: url('../images/typo/icon19.png') no-repeat right 2px;}
+.rtl .icon20 { background: url('../images/typo/icon20.png') no-repeat right 2px;}
+.rtl .icon21 { background: url('../images/typo/icon21.png') no-repeat right 2px;}
+.rtl .icon22 { background: url('../images/typo/icon22.png') no-repeat right 2px;}
+.rtl .icon23 { background: url('../images/typo/icon23.png') no-repeat right 2px;}
+.rtl .icon24 { background: url('../images/typo/icon24.png') no-repeat right 2px;}
+.rtl .icon25 { background: url('../images/typo/icon25.png') no-repeat right 2px;}
+.rtl .icon26 { background: url('../images/typo/icon26.png') no-repeat right 2px;}
+.rtl .icon27 { background: url('../images/typo/icon27.png') no-repeat right 2px;}
+.rtl .icon28 { background: url('../images/typo/icon28.png') no-repeat right 2px;}
+.rtl .icon29 { background: url('../images/typo/icon29.png') no-repeat right 2px;}
+.rtl .icon30 { background: url('../images/typo/icon30.png') no-repeat right 2px;}
+/*end icon set*/
+
+/*begin unordered list*/
+.rtl .unordered{ float:right;  }
+.rtl .unordered li{ padding:0 30px 0 0; }
+.rtl .unordered .list1 li.bullet1{ background: url('../images/typo/arrow1.png') no-repeat right 0; }
+.rtl .unordered .list1 li.bullet2{ background: url('../images/typo/arrow1.png') no-repeat right -27px; }
+.rtl .unordered .list1 li.bullet3{ background: url('../images/typo/arrow1.png') no-repeat right -54px; }
+
+.rtl .unordered .list2 li.bullet1{ background: url('../images/typo/arrow2.png') no-repeat right 4px; }
+.rtl .unordered .list2 li.bullet2{ background: url('../images/typo/arrow2.png') no-repeat right -23px; }
+.rtl .unordered .list2 li.bullet3{ background: url('../images/typo/arrow2.png') no-repeat right -50px; }
+
+.rtl .unordered .list3 li.bullet1{ background: url('../images/typo/arrow3.png') no-repeat right 4px; }
+.rtl .unordered .list3 li.bullet2{ background: url('../images/typo/arrow3.png') no-repeat right -23px; }
+.rtl .unordered .list3 li.bullet3{ background: url('../images/typo/arrow3.png') no-repeat right -50px; }
+
+.rtl .unordered .list4 li.bullet1{ background: url('../images/typo/arrow4.png') no-repeat right 5px; }
+.rtl .unordered .list4 li.bullet2{ background: url('../images/typo/arrow4.png') no-repeat right -22px; }
+.rtl .unordered .list4 li.bullet3{ background: url('../images/typo/arrow4.png') no-repeat right -49px; }
+
+/*warning*/
+.rtl .zt-box-info { padding: 15px 50px 15px 15px; background: #ebf7fb url(../images/typo/box-info.png) no-repeat 99% 10px; }
+.rtl .zt-box-warning { padding: 15px 50px 15px 15px;  background: #fbedeb url(../images/typo/box-warning.png) no-repeat 99% 10px; }
+.rtl .zt-box-stickynote { padding: 15px 50px 15px 15px; 	background: #fbf8eb url(../images/typo/box-stickynote.png) no-repeat 99% 10px; }
+.rtl .zt-box-upload { padding: 15px 50px 15px 15px; background: #eefbeb url(../images/typo/box-upload.png) no-repeat 99% 10px; }
+.rtl .zt-box-download { padding: 15px 50px 15px 15px; background: #ebfafb url(../images/typo/box-download.png) no-repeat 99% 10px; }
